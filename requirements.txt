@@ -1,0 +1,2 @@
+isOdd==0.1.2
+coordinate-geometry==1.0.0.2
